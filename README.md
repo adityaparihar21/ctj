@@ -31,7 +31,7 @@ npm run dev
 Open the local URL printed by Vite. The default development URL is:
 
 ```text
-http://127.0.0.1:5173/
+http://127.0.0.1:5174/
 ```
 
 ## Build
